@@ -502,6 +502,7 @@ Hanger Games & the Stars of Darkness
 skiev@Serhiy_Laptop MINGW64 ~/shell/02_assignments/clues/movies/hanger_games (assignment)
 $
 
+
 ```
 
 |Criteria|Complete|Incomplete|
